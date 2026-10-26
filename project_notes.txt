@@ -1,0 +1,4 @@
+Project: Study Habits and Student Well-being
+This is a fictional psychology class project created for a GitHub practice exercise.
+The team is drafting a survey to explore the relationship between study habits and student well-being.
+No real participant data is included in this file or repository.
