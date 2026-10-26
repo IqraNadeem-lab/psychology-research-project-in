@@ -20,3 +20,6 @@ on what was updated.
 Privacy reminder
 No personal records or identifiable participant data may be uploaded to this repository. All content
 must remain fictional or fully non-sensitive.
+
+Next step
+The next step is to finalize the survey questions and share them with the team for review.
